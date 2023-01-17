@@ -1,2 +1,2 @@
 # ProyectoClima
-Proyecto Clima con API practicando Fecth
+Proyecto Clima con API practicando Fetch
